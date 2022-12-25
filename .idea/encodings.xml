@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/core-api/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/discovery-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/gateway-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/gateway-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/infraction-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/infraction-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/radar-service/radar-service-command-side/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/radar-service/radar-service-command-side/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/radar-service/radar-service-query-side/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/radar-service/radar-service-query-side/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/radar-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/radar-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/registration-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/registration-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/incidentManagementSystem/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
