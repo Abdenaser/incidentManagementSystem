@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ea64532-5c58-4012-ab23-f27dae1c812a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/incidentManagementSystem.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/src/main/java/com/example/registrationservicecommand/RegistrationServiceCommandApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/src/main/java/com/example/immatriculationservicecommand/ImmatriculationServiceCommandApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/src/main/java/com/example/registrationservicecommand/aggregates/VehicleRegistrationAggregate.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/src/main/java/com/example/immatriculationservicecommand/aggregates/VehicleRegistrationAggregate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/src/main/java/com/example/registrationservicecommand/controllers/VehicleCommandController.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/src/main/java/com/example/immatriculationservicecommand/controllers/VehicleCommandController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-command/src/test/java/com/example/registrationservicecommand/RegistrationServiceCommandApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-command/src/test/java/com/example/immatriculationservicecommand/RegistrationServiceCommandApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/java/com/example/registrationservicequery/RegistrationServiceQueryApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/main/java/com/example/immatriculationservicequery/ImmatriculationServiceQueryApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/java/com/example/registrationservicequery/controllers/VehicleRegistrationQueryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/main/java/com/example/immatriculationservicequery/controllers/VehicleRegistrationQueryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/java/com/example/registrationservicequery/entities/Owner.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/main/java/com/example/immatriculationservicequery/entities/Owner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/java/com/example/registrationservicequery/entities/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/main/java/com/example/immatriculationservicequery/entities/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/java/com/example/registrationservicequery/repositories/OwnerRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/main/java/com/example/immatriculationservicequery/repositories/OwnerRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/java/com/example/registrationservicequery/repositories/VehicleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/main/java/com/example/immatriculationservicequery/repositories/VehicleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/java/com/example/registrationservicequery/services/VehicleRegistrationEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/main/java/com/example/immatriculationservicequery/services/VehicleRegistrationEventHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/java/com/example/registrationservicequery/services/VehicleRegistrationQueryHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/main/java/com/example/immatriculationservicequery/services/VehicleRegistrationQueryHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/registration-service-query/src/test/java/com/example/registrationservicequery/RegistrationServiceQueryApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/immatriculation-service-query/src/test/java/com/example/immatriculationservicequery/RegistrationServiceQueryApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/src/main/java/org/sid/Imatriculationservice/ImatriculationServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/src/main/java/org/sid/Imatriculationservice/ImatriculationServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/incidentManagementSystem/registration-service/src/test/java/org/sid/Imatriculationservice/ImatriculationServiceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/incidentManagementSystem/immatriculation-service/src/test/java/org/sid/Imatriculationservice/ImatriculationServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/infraction-service">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2JQ8vvqzCLQey6OkUhwowPKEbrB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/home/abdenasser/Desktop/incidentManagementSystem",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "spring.configuration.checksum": "76552c8e5f662e6f4cbe12944f94d843",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.RadarServiceQuerySideApplication">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="infraction-service" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="infraction-service" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DiscoveryServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="discovery-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.discoveryservice.DiscoveryServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GatewayServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="gateway-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.gatewayservice.GatewayServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImatriculationServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="immatriculation-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.Imatriculationservice.ImatriculationServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmatriculationServiceCommandApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="immatriculation-service-command" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.immatriculationservicecommand.ImmatriculationServiceCommandApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImmatriculationServiceQueryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="immatriculation-service-query" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.immatriculationservicequery.ImmatriculationServiceQueryApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfractionServiceApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="infraction-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.infractionservice.InfractionServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfractionServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="infraction-service.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.infractionservice.InfractionServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfringementManagerApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="core-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.infringementmanager.InfringementManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InfringementManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="incidentManagementSystem" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.infringementmanager.InfringementManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadarServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="radar-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.radarservice.RadarServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadarServiceCommandSideApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="radar-service-command-side" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.radarservicecommandside.RadarServiceCommandSideApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RadarServiceQuerySideApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="radar-service-query-side" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.sid.radarservicequeryside.RadarServiceQuerySideApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="immatriculation-service-command" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="immatriculation-service-command" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ea64532-5c58-4012-ab23-f27dae1c812a" name="Changes" comment="" />
+      <created>1671999180478</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671999180478</updated>
+      <workItem from="1671999181630" duration="1415000" />
+      <workItem from="1672000952906" duration="2000" />
+      <workItem from="1672001287792" duration="3367000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
